@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+
+    }
+
+body{
+background-color: #4357E1;
+}
+.h1{
+    background-color: green;
+    padding: 40px;
+    }
+
+.cabecalho{
+    margin-left: -110px;
+    padding: 0px;
+    background-color: #3f0e79
+}
+.cabecalho__menu{
+    display: flex;
+    padding: 20px;
+}
+
+.cabecalho__menu__link{
+    margin-left: 30%;
+    padding: 20px;
+    background-color: #3e2d8b;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    
+
+}
+
+.cabecalho__marca{
+    flex-direction:row;
+    display:flex;
+    margin-left: 350px;
+    gap: 80px;
+    margin:0px 5px 20px 5ox;
+    }
+
+    .cabecalho__marca__logo{
+        margin-left: -240px;
+        height: 100px;
+        width: 100px;
+        background-size: auto;
+        display: flex   ;
+    }
+
+.cabecalho__marca__nome{
+    margin-top: 30px;
+     text-align: center;
+        width:95%;
+        font-family: var(--font-primaria);
+        font-size:2.5rem;
+        font-weight: 700;
+        color: black;
+        }
+        .apresentacao_titulo{
+            margin-top: 35px;
+            margin-left: 30px;
+        }
+
+    .apresentacao_nome{
+        color: darkblue
+        
+   
+    }
+
+    .apresentacao__conteudo__texto{
+        margin-left: 10px;
+    padding: 10px;
+    }
+    .apresentacao__links__subtitulo{
+        margin-left: 30px;
+    }
+
+    .apresentacao__links__navegacao__imagem{
+        margin-top: 10px;
+        margin-left: 30px;
+        height: 20px;
+        width: 20px;
+    }
+   .apresentacao__links__navegacao__imagem2{
+    margin-top: 10px;
+    margin-left: 30px;
+        height: 20px;
+        width: 20px;
+    }
+    .apresentacao__imagem{
+        margin-top: 10px;
+        margin-left: 0%;
+        height: 400px;
+        width: 300px;
+
+    }
+    .apresentacao__imagem1{
+        height: 500px;
+        width: 500px;
+        margin-left: 30px;
+
+    }
+    .apresentacao{
+        text-align: center;
+        margin-left: 10px;
+
+    }
+    .apresentacao2{
+        text-align: center;
+        margin-top: 80px;
+    }
+    .apresentacao_imagem_sobremim{
+        margin: 20px;
+        height: 600px;
+        width: 350px;
+        margin-left: 0%;
+
+    }
